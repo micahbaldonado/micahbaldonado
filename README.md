@@ -10,12 +10,6 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 
 ---
 
-### 💻 Fun Projects & Explorations
-- I’m always **coding for fun** – experimenting with unique ML projects, data science projects, Arduino-based systems, API-driven websites, and 
-- Driven to improve, I take on new tools, frameworks, and challenges to elevate my skills and understanding.
-
----
-
 ### 📚 Relevant Coursework
 
 **Current Semester:**
@@ -27,7 +21,3 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 - Introduction to Deep Learning (18-786)
 - Probabilistic Graphical Models (10-708)
 - AI Applications in Biomedical Engineering (42-687)
-
----
-
-Feel free to reach out if you’re interested in collaboration, discussing projects, or connecting! 🌞
