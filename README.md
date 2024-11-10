@@ -1,6 +1,6 @@
 # Hi there 🌱
 
-I'm a master’s student at **Carnegie Mellon University** in **AI Engineering** and **Biomedical Engineering**, with a strong personal focus on **machine learning**. Beyond my studies, I'm driven by a hunger to master ML through hands-on projects and constant exploration of new technologies.
+I'm a master’s student at **Carnegie Mellon University** in **AI Engineering** and **Biomedical Engineering** with a strong personal focus on **machine learning**. Beyond my studies, I'm driven by a hunger to master ML through hands-on projects and constant exploration of new technologies.
 
 ---
 
