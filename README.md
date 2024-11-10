@@ -20,5 +20,6 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 
 **Next Semester (Planned):**
 - Introduction to Deep Learning (18-786)
-- Probabilistic Graphical Models (10-708)
+- [Probabilistic Graphical Models](https://andrejristeski.github.io/10708F24/index.html#logistics) (10-708)
 - AI Applications in Biomedical Engineering (42-687)
+- Neural Signal Processing (42-632)
