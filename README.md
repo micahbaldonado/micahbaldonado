@@ -5,7 +5,7 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 ---
 
 ### 🌟 Current Focus
-- **Summer 2025 Internship Search**: Success. I will be interning at Ford Motor Company as a AI/ML Engineer!
+- **Summer 2025 Internship Search**: Success! I will be interning at Ford Motor Company as a AI/ML Engineer!
 - **Data Science & Analytics Competitions:** Competing in [Pediatric Sepsis Data Challenge](https://sepsis.ubc.ca/research/current-research-projects/pediatric-sepsis-data-challenge) and [Child Mind Institute — Problematic Internet Use Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview)
 ---
 
