@@ -12,9 +12,9 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 ### 📚 Relevant Coursework
 
 **Previous Semester:**
-- Machine Learning and Artificial Intelligence for Engineers (24-787). Grade Received: A.
-- Systems and Tool Chains for AI Engineers (14-763). Grade Received: A.
-- Introduction to Neural Engineering (42-630). Grade Received: A.
+- Machine Learning and Artificial Intelligence for Engineers (24-787). Grade Received: A
+- Systems and Tool Chains for AI Engineers (14-763). Grade Received: A
+- Introduction to Neural Engineering (42-630). Grade Received: A
 
 **Current Semester:**
 - [Introduction to Deep Learning](https://18-786.github.io/) (18-786)
