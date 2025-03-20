@@ -20,5 +20,5 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 - [Introduction to Deep Learning](https://18-786.github.io/) (18-786)
 - [AI Applications in Biomedical Engineering](http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/courses/) (42-687)
 - [Neural Signal Processing](https://github.com/CMU-HKN/CMU-ECE-CS-Guide/blob/master/electives/18698.md?utm_source=perplexity) (42-632)
-- [Clinical Translations in AI](https://github.com/user-attachments/assets/a760a0dd-aece-4850-b17a-3cf0c38dd5d3)
+- [Clinical Translations in AI](https://github.com/user-attachments/assets/a760a0dd-aece-4850-b17a-3cf0c38dd5d3) (42-698)
 
