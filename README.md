@@ -26,7 +26,8 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 
 ### 📚 Relevant Coursework
 
-**Previous Semester:**
+**Previous Semesters:**
+
 Fall 2024
 - Machine Learning and Artificial Intelligence for Engineers (24-787). Grade Received: A
 - Systems and Tool Chains for AI Engineers (14-763). Grade Received: A
