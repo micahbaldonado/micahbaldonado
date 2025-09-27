@@ -1,13 +1,29 @@
-# Hi there 🌱
+# 🌌 Micah Baldonado  
 
 I'm a master’s student at **Carnegie Mellon University** in **AI Engineering** and **Biomedical Engineering** with a strong personal focus on **machine learning**. Beyond my studies, I'm driven by a hunger to master ML through hands-on projects and constant exploration of new technologies.
 
 ---
 
 ### 🌟 Current Focus
-- **Summer 2025 Internship Search**: Success! I will be interning at Ford Motor Company as a AI/ML Engineer!
-- **Data Science & Analytics Competitions:** Competing in [Pediatric Sepsis Data Challenge](https://sepsis.ubc.ca/research/current-research-projects/pediatric-sepsis-data-challenge)
----
+- **Ford Motor Company – ML/AI Engineering Intern (Summer 2025)**:contentReference[oaicite:0]{index=0}  
+  Contributed to an in-vehicle conversational AI prototype presented to the CEO.  
+  - Delivered search and navigation features with Google Maps & Search (via Gemini ADK tool-calling)  
+  - Boosted routing accuracy from ~70% → 99%+ with a 133MB low-latency classifier  
+  - Built evaluation datasets to guide model selection  
+  - Integrated long-term memory and summarization into LangGraph prototypes  
+
+- **Choroidal Analysis & Research Lab (CMU/Pitt)**:contentReference[oaicite:1]{index=1}  
+  Leading a 4-person team on **foveal localization in AMD** using OCT imaging.  
+  - Developed ViT-MAE with UNet++ pipeline to estimate foveal centroids  
+  - Quantified misalignment against ETDRS fixation centers (DICE: 0.73 early, 0.63 intermediate, 0.50 GA)  
+  - Presented results at CMU Biomedical Engineering Forum; first-author manuscript in preparation  
+
+- **Machine Learning in Production (CMU Course Project, Fall 2025)**  
+  Leading a team developing a **movie recommendation system** in a production-like environment.  
+  - Designing data pipelines with Kafka for streaming ingestion  
+  - Evaluating collaborative filtering and neural recommenders with W&B monitoring  
+  - Implementing ranking services and exposing APIs for integration  
+  - Coordinating milestones and guiding technical architecture for the group  
 
 ### 📚 Relevant Coursework
 
@@ -27,9 +43,8 @@ Spring 2025
 **Current Semester:**
 Fall 2025
 - Trustworthy and Ethical AI Engineering (24-784: 12 Units)
-- Introduction to DL and Pattern Recognition for CV Part I (18-790: 6 Units)
-- Machine Learning in Production (17-645: 12 Units) 
+- Machine Learning in Production (17-645: 12 Units)
+- Brain Computer Interface (BCI) (42-633: 12 Units)
 - AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures (82-183)
-- Deep Reinforcement Learning & Control (10-703: 12 Units) [MAY AUDIT THIS]
 
 
