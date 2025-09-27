@@ -5,25 +5,24 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
 ---
 
 ### 🌟 Current Focus
-- **Ford Motor Company – ML/AI Engineering Intern (Summer 2025)**:contentReference[oaicite:0]{index=0}  
+- **Ford Motor Company – ML/AI Engineering Intern (Summer 2025)**
   Contributed to an in-vehicle conversational AI prototype presented to the CEO.  
   - Delivered search and navigation features with Google Maps & Search (via Gemini ADK tool-calling)  
   - Boosted routing accuracy from ~70% → 99%+ with a 133MB low-latency classifier  
   - Built evaluation datasets to guide model selection  
   - Integrated long-term memory and summarization into LangGraph prototypes  
 
-- **Choroidal Analysis & Research Lab (CMU/Pitt)**:contentReference[oaicite:1]{index=1}  
+- **Choroidal Analysis & Research Lab (CMU/Pitt)**
   Leading a 4-person team on **foveal localization in AMD** using OCT imaging.  
   - Developed ViT-MAE with UNet++ pipeline to estimate foveal centroids  
   - Quantified misalignment against ETDRS fixation centers (DICE: 0.73 early, 0.63 intermediate, 0.50 GA)  
-  - Presented results at CMU Biomedical Engineering Forum; first-author manuscript in preparation  
+  - Presented results at CMU [Biomedical Engineering Forum[(youtube.com/watch?v=HoPHyktm3MY&feature=youtu.be); first-author manuscript in preparation
 
 - **Machine Learning in Production (CMU Course Project, Fall 2025)**  
-  Leading a team developing a **movie recommendation system** in a production-like environment.  
-  - Designing data pipelines with Kafka for streaming ingestion  
-  - Evaluating collaborative filtering and neural recommenders with W&B monitoring  
-  - Implementing ranking services and exposing APIs for integration  
-  - Coordinating milestones and guiding technical architecture for the group  
+  Leading a team developing a **personalized movie recommendation system**.  
+  - Built serving pipeline with warm-start and cold-start handling  
+  - Matrix factorization (PyTorch-based) outperformed baselines (RMSE ↓ to 0.9723, MAE ↓ to 0.7615, 40.7% accuracy)  
+  - Coordinated feature engineering, model training, and deployment integration  
 
 ### 📚 Relevant Coursework
 
