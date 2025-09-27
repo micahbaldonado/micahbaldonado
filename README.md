@@ -41,6 +41,7 @@ Spring 2025
 
 
 **Current Semester:**
+
 Fall 2025
 - Trustworthy and Ethical AI Engineering (24-784: 12 Units)
 - Machine Learning in Production (17-645: 12 Units)
