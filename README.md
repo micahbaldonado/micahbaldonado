@@ -16,7 +16,7 @@ I'm a master’s student at **Carnegie Mellon University** in **AI Engineering**
   Leading a 4-person team on **foveal localization in AMD** using OCT imaging.  
   - Developed ViT-MAE with UNet++ pipeline to estimate foveal centroids  
   - Quantified misalignment against ETDRS fixation centers (DICE: 0.73 early, 0.63 intermediate, 0.50 GA)  
-  - Presented results at CMU [Biomedical Engineering Forum[(youtube.com/watch?v=HoPHyktm3MY&feature=youtu.be); first-author manuscript in preparation
+  - Presented results at CMU [Biomedical Engineering Forum](youtube.com/watch?v=HoPHyktm3MY&feature=youtu.be); first-author manuscript in preparation
 
 - **Machine Learning in Production (CMU Course Project, Fall 2025)**  
   Leading a team developing a **personalized movie recommendation system**.  
